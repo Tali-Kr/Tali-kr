@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm Tali
+  
+  <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/tali-kreynin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+  </h1>
 
-<!--
-**Tali-Kr/Tali-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* :woman_student: Fourth year student in Industrial & Management Engineering specializing in Information Systems.
+* 🔭 I’m currently working on my final project for my Industrial engineering and management bachelor's.
+* :fire: I'm deeply passionate about the world of data and the insights it can provide, and I am constantly seeking opportunities to learn and apply new skills in this rapidly evolving field.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Languages and Tools :
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+</div>
