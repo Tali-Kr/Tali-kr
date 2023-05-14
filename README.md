@@ -9,7 +9,7 @@
   </h1>
 
 * :woman_student: Fourth year student in Industrial & Management Engineering specializing in Information Systems.
-* 🔭 I’m currently working on machine learning model in Python to determine the optimal day for soccer games in the Israeli Premier League, for my final project for my Industrial engineering and management bachelor's
+* 🔭 I’m currently working on machine learning model in Python to determine the optimal day for soccer games in the Israeli Premier League, for my final project for my Industrial engineering and management bachelor's.
 * :fire: I'm deeply passionate about the world of data and the insights it can provide, and I am constantly seeking opportunities to learn and apply new skills in this rapidly evolving field.
 
 ### :hammer_and_wrench: Languages and Tools :
